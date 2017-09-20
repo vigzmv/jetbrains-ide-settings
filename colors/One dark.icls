@@ -756,6 +756,7 @@
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d2945d" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
@@ -985,6 +986,7 @@
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="df6a73" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.REGEXP">
@@ -1363,11 +1365,13 @@
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="57b6c2" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.COMMA">
@@ -1376,6 +1380,7 @@
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="61afef" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -1399,6 +1404,12 @@
         <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="aa4926" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="59626f" />
@@ -1413,19 +1424,24 @@
     <option name="PY.PARAMETER">
       <value>
         <option name="FOREGROUND" value="d19a66" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
-      <value />
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.STRING">
