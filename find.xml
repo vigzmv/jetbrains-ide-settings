@@ -19,11 +19,11 @@
       <mask>*.htm</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
+      <mask>*.html</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
-      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
